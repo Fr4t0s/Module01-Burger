@@ -78,8 +78,8 @@ position: relative;
 }
 .bg {
     text-align: center;
-    color: #FFFFFF;
     background-image: url(../images/bg.jpg);
+    color: #FFFFFF;
     background-size: cover;
     background-position: center center;
     padding: 142px 0;
